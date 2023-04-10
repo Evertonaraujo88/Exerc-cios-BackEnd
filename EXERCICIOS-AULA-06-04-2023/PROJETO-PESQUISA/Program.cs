@@ -37,13 +37,13 @@ for (int i = 0; i < 10; i++)
         
         if (resp == "s")
         {
-            respsim= respsim +1;
-            sexohsim = sexohsim +1;
+            respsim++;
+            sexohsim++;
         }
         else if (resp == "n")
         {
-            respnao= respnao +1;
-            sexohnao= sexohnao +1;
+            respnao++;
+            sexohnao++;
         }
         else
         {
@@ -61,13 +61,13 @@ for (int i = 0; i < 10; i++)
 
         if (resp == "s")
         {
-            respsim= respsim +1;
-            sexomsim = sexomsim + 1;
+            respsim++;
+            sexomsim++;
         }
         else 
         {
-            respnao= respnao +1;
-            sexomnao= sexomnao +1;
+            respnao++;
+            sexomnao++;
         }
     }
     else
@@ -79,7 +79,7 @@ for (int i = 0; i < 10; i++)
     Console.WriteLine($"O número de pessoas que digitaram SIM é {respsim}.");
     Console.WriteLine($"O número de pessoas que digitaram NÃO é {respnao}");
     Console.WriteLine($"O número de mulheres que responderam SIM é {sexomsim}");
-    Console.WriteLine($"A porcentagem de homens que responderam NÃO entre todos é {percentual= (sexohnao*100)/(sexohsim+sexohnao)} %");
+    Console.WriteLine($"A porcentagem de homens que responderam NÃO entre todos é {percentual= ((sexohnao)/(sexohsim+sexohnao)*100)} %");
     Console.WriteLine($"O total de homens analisados é {sexohsim+sexohnao}.");
     
     

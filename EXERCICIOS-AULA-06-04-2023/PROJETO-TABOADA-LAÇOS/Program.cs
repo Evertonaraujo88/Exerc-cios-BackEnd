@@ -14,11 +14,11 @@ int taboada;
 Console.WriteLine($"Pressione enter saber a taboada: ");
 Console.ReadLine();
 
-for (int i = 0; i <= 10; i++)
+for (int i = 1; i <= 10; i++)
 {
     Console.WriteLine($"-----------");
     
-    for (int a = 0; a <= 10; a++)
+    for (int a = 1; a <= 10; a++)
     {
       
         taboada = a * i;
