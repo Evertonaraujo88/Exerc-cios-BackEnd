@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\bin\Debug\net7.0\PROJETO ORDEM INVERSA.exe
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\bin\Debug\net7.0\PROJETO ORDEM INVERSA.deps.json
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\bin\Debug\net7.0\PROJETO ORDEM INVERSA.runtimeconfig.json
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\bin\Debug\net7.0\PROJETO ORDEM INVERSA.dll
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\bin\Debug\net7.0\PROJETO ORDEM INVERSA.pdb
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\obj\Debug\net7.0\PROJETO ORDEM INVERSA.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\obj\Debug\net7.0\PROJETO ORDEM INVERSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\obj\Debug\net7.0\PROJETO ORDEM INVERSA.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\obj\Debug\net7.0\PROJETO ORDEM INVERSA.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\obj\Debug\net7.0\PROJETO ORDEM INVERSA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\obj\Debug\net7.0\PROJETO ORDEM INVERSA.dll
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\obj\Debug\net7.0\refint\PROJETO ORDEM INVERSA.dll
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\obj\Debug\net7.0\PROJETO ORDEM INVERSA.pdb
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\obj\Debug\net7.0\PROJETO ORDEM INVERSA.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Tecnico-Senai\1° Termo Senai\Back-End-1\FUNÇÕES\LISTA DE EXERCÍCIOS 11-04-2023\PROJETO ORDEM INVERSA\obj\Debug\net7.0\ref\PROJETO ORDEM INVERSA.dll
