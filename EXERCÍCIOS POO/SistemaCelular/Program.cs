@@ -9,7 +9,7 @@ Crie uma Classe de um Celular, com as propriedades:
 Com os métodos:
 - ligar
 - desligar
--  fazer ligação
+- fazer ligação
 - enviar mensagem.
 
 Só será possível executar tais métodos se o celular estiver ligado.
@@ -33,7 +33,8 @@ string resp = Console.ReadLine().ToLower();
 
 //cel.Ligado = resp == "s" ? true : false;
 
-if (resp == "s")
+  
+   if (resp == "s")
 {
   cel.Ligado = true;
 }
@@ -53,8 +54,7 @@ else if (resp == "n")
   }
   
 }
-
-
+ 
 if (cel.Ligado == true)
 {
 char escolha;
